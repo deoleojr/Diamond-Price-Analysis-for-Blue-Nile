@@ -3,7 +3,7 @@
 Blue Nile Diamond Analysis
 
 ## Authors
-Emmanuel Leonce & group members
+Emmanuel Leonce 
 ## License
 MIT License
 
